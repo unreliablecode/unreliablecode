@@ -16,14 +16,6 @@ Welcome to my GitHub profile! I'm a passionate and multi-talented individual wit
 
 I take a holistic approach to problem-solving, drawing from my diverse skill set to create well-rounded solutions. Whether it's writing elegant code, optimizing network performance, or designing efficient circuits, I always aim for excellence.
 
-## 📌 Highlights
-
-- 🏆 Recipient of the "Innovative Code Wizard" award at [Tech Excellence Awards](link-to-awards-page).
-
-- 💡 Developed a [smart home automation system](link-to-project) using Arduino and ESP32, allowing seamless control of appliances and lighting.
-
-- 📡 Optimized a large-scale network infrastructure for [Company X](link-to-company-x), resulting in a 30% increase in data transmission speed.
-
 ## 📚 What I'm Currently Learning
 
 I believe in continuous growth, and currently, I'm exploring:
