@@ -26,7 +26,7 @@ I believe in continuous growth, and currently, I'm exploring:
 
 ## 🔗 Let's Connect
 
-I'm always open to collaboration and exciting opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/unreliablecode) or [Twitter](https://twitter.com/unreliablecoder), and let's create something amazing together!
+I'm always open to collaboration and exciting opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/zikrizahron) or [Twitter](https://twitter.com/unreliablecode), and let's create something amazing together!
 
 Thanks for stopping by and happy coding! 🎉
 
