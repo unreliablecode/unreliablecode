@@ -35,4 +35,3 @@ Thanks for stopping by and happy coding! 🎉
 ![Visitor Count](https://profile-counter.glitch.me/unreliablecode/count.svg)
 
 ---
-*Note: This README is a work of fiction and any resemblance to real persons, living or dead, is purely coincidental.*
