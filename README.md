@@ -1,6 +1,6 @@
 # Hey there, I'm unreliablecode! 👋
 
-Welcome to my GitHub profile! I'm a passionate and multi-talented individual with a strong background in programming, microcontroller coding, networking engineering, and electrical engineering. I'm currently a student at Politeknik Caltex Riau, where I'm honing my skills and expanding my knowledge.
+Welcome to my GitHub profile! I'm a passionate and multi-talented individual with a strong background in programming, microcontroller coding, networking engineering, and electrical engineering.
 
 ## 🚀 What I Do
 
