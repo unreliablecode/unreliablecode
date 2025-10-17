@@ -19,4 +19,4 @@ Thanks for stopping by and happy coding! 🎉
 
 *"Code is poetry - beautifully complex and endlessly inspiring."*
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=unreliablecode&countColorcountColor&countColor=%237B1E7B"/> <img src="https://img.shields.io/github/stars/unreliablecode?label=Stars" alt="stars">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=unreliablecode&countColorcountColor&countColor=%237B1E7B"/> <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
