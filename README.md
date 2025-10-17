@@ -19,4 +19,4 @@ Thanks for stopping by and happy coding! 🎉
 
 *"Code is poetry - beautifully complex and endlessly inspiring."*
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=unreliablecode&countColorcountColor&countColor=%237B1E7B"/>
